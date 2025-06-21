@@ -14,7 +14,8 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.30"
+    "next": "14.2.30",
+    "@cloudflare/next-on-pages": "^1.13.5"
   },
   "devDependencies": {
     "typescript": "^5",
